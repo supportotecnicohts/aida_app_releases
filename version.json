@@ -1,11 +1,11 @@
 {
   "app_local": {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "date": "2026-10-02",
-    "notes": "Prima versione con aggiornamento automatico. Novita: numero di autorizzazione per PDF, layout che si adatta allo schermo, versione in basso.",
-    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.0/app_local.exe",
-    "sha256": "9550ee9fcb4597553dfdda0d2bb58c3cd4fead8444e10a2f51b05881d5258e3f",
-    "signature": "tKKdKQxBmhUJHrJmTR+twF29DwQIDKwonSzJV87zL0BeKqbPetUI7/YzoFu08/wqpLQwUqqFrLc57mBcqbCJCQ=="
+    "notes": "Versione di prova per verificare l'aggiornamento automatico (nessuna modifica alle funzioni).",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.1/app_local.exe",
+    "sha256": "5a5020e0e76268f9a85a77dcf5ffbdb425fcee67a418b72893a8839d95134696",
+    "signature": "udL6ioeyHS/qsbexsHOwZdQ+vHaXgEVru8pId8UCJ3aQXHDc36OHjcUw03Q4pNhwtch+Vht1cCOsj2DuEVtMAg=="
   },
   "app_local_api": {
     "version": "1.5.0",
