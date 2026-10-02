@@ -1,11 +1,11 @@
 {
   "app_local": {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "date": "2026-10-02",
-    "notes": "Versione di prova per verificare l'aggiornamento automatico (nessuna modifica alle funzioni).",
-    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.1/app_local.exe",
-    "sha256": "5a5020e0e76268f9a85a77dcf5ffbdb425fcee67a418b72893a8839d95134696",
-    "signature": "udL6ioeyHS/qsbexsHOwZdQ+vHaXgEVru8pId8UCJ3aQXHDc36OHjcUw03Q4pNhwtch+Vht1cCOsj2DuEVtMAg=="
+    "notes": "Corregge il riavvio automatico dopo l'aggiornamento e aggiunge una conferma prima di inviare piu' di 20 PDF insieme.",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.2/app_local.exe",
+    "sha256": "93fb7cb3520aba9fef495e3bdeac31062867831f25dff3ae9a9095a11fd7c955",
+    "signature": "UFGPL3eCQwl99A4snrYV+BfeBKViWWADlfenakFAR5bhW+U1Oy+SyN9V4MDgWjpjvFFXrlEsJfz7oviniCdBBA=="
   },
   "app_local_api": {
     "version": "1.5.0",
