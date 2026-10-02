@@ -6,5 +6,13 @@
     "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.0/app_local.exe",
     "sha256": "9550ee9fcb4597553dfdda0d2bb58c3cd4fead8444e10a2f51b05881d5258e3f",
     "signature": "tKKdKQxBmhUJHrJmTR+twF29DwQIDKwonSzJV87zL0BeKqbPetUI7/YzoFu08/wqpLQwUqqFrLc57mBcqbCJCQ=="
+  },
+  "app_local_api": {
+    "version": "1.5.0",
+    "date": "2026-10-02",
+    "notes": "Prima versione con aggiornamento automatico. Novita: layout che si adatta allo schermo, versione in basso.",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local_api-v1.5.0/app_local_api.exe",
+    "sha256": "7aad6a9dd7f741b09b0d8de77c5a144f1c52befb2b60ea7e57b59e71fa03fe58",
+    "signature": "CQ9vRVZNVhxm/xgNLtaKD6PzWiX/LamENJo8CKWNDkR0VgFHBzdz8/x8tPQKoLXGcsHzC9F0JmnQoLjqYp9lAg=="
   }
 }
