@@ -1,11 +1,11 @@
 {
   "app_local": {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "date": "2026-10-02",
-    "notes": "Corregge il riavvio automatico dopo l'aggiornamento e aggiunge una conferma prima di inviare piu' di 20 PDF insieme.",
-    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.2/app_local.exe",
-    "sha256": "93fb7cb3520aba9fef495e3bdeac31062867831f25dff3ae9a9095a11fd7c955",
-    "signature": "UFGPL3eCQwl99A4snrYV+BfeBKViWWADlfenakFAR5bhW+U1Oy+SyN9V4MDgWjpjvFFXrlEsJfz7oviniCdBBA=="
+    "notes": "Versione di prova per verificare l'aggiornamento automatico (nessuna modifica alle funzioni).",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.3/app_local.exe",
+    "sha256": "532eedf489c9c987e6d1d42cc9bcbc8b51686643e69458087ef6c69f9d7a881d",
+    "signature": "GPpHy5xiDnL5X5CkbA3K2YE2FVnMhl7jjU3rpPlY+VvRmavvUlLtKZjGAnAVoUlVaieTj6YRR7CeKoHhrxxsDg=="
   },
   "app_local_api": {
     "version": "1.5.2",
