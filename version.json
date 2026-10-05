@@ -8,11 +8,11 @@
     "signature": "xEJhaKUYuk6qenw3w+ZkvoSzKUeVNswES/63ZabffjQcKjpO3zmuqndKGclphGvQzsGNYKPs+5pqS7n/qqnSAg=="
   },
   "app_local_api": {
-    "version": "1.5.2",
-    "date": "2026-10-02",
-    "notes": "Corregge il riavvio automatico dopo l'aggiornamento e aggiunge una conferma prima di inviare piu' di 20 PDF insieme.",
-    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local_api-v1.5.2/app_local_api.exe",
-    "sha256": "d352126b07aa37bd7b1529cde9524d84f738bb94a83b7b2b6554e121fde7cbe4",
-    "signature": "t0SWLeBNnqISGie8aLhyQqrsopYe8XKIQg0tjnl3TTZhSuMagfuVLZFsg2YVU9VyguR/syI4q8wTT5ZutH4XDQ=="
+    "version": "1.5.4",
+    "date": "2026-10-05",
+    "notes": "Nuova interfaccia",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local_api-v1.5.4/app_local_api.exe",
+    "sha256": "6dd7b92c18173973d8838ffb4be0f6ed7b203d03d1347ad0136d22d2c02337fa",
+    "signature": "hJB7HvqQSpKa30c4IUIjW7Hj0gJmgWIgtGdH4GlYbRnCNi2jQfIWl14RgL+PUiGAjOmAgGiltp45bQkpCmBaBw=="
   }
 }
