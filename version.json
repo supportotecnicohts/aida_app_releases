@@ -8,11 +8,11 @@
     "signature": "JomvsyJKJAg89dMzv4iD/NXqpHpyvQv358XebGhf9hRDZNefSlt9zAFp3N/pGdKguXKz4LSbCyfSviR1bXI7Bg=="
   },
   "app_local_api": {
-    "version": "1.5.4",
+    "version": "1.5.5",
     "date": "2026-10-05",
-    "notes": "Nuova interfaccia",
-    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local_api-v1.5.4/app_local_api.exe",
-    "sha256": "6dd7b92c18173973d8838ffb4be0f6ed7b203d03d1347ad0136d22d2c02337fa",
-    "signature": "hJB7HvqQSpKa30c4IUIjW7Hj0gJmgWIgtGdH4GlYbRnCNi2jQfIWl14RgL+PUiGAjOmAgGiltp45bQkpCmBaBw=="
+    "notes": "Miglioramenti interni al sistema di invio.",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local_api-v1.5.5/app_local_api.exe",
+    "sha256": "281edcb9a898b202d6f2f07da2497825b48ba9a542a4869a77ef79e3a57a3b64",
+    "signature": "vfljjO8TDyp+fJeNUG9eQQ+TwPz9o3XPB2kNOtIPGYI73RGs6294RQOuJHi8/ITSNpRhfCJMMZkZoBLX5KVKBA=="
   }
 }
