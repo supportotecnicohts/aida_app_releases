@@ -1,11 +1,11 @@
 {
   "app_local": {
-    "version": "1.5.3",
-    "date": "2026-10-02",
-    "notes": "Versione di prova per verificare l'aggiornamento automatico (nessuna modifica alle funzioni).",
-    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.3/app_local.exe",
-    "sha256": "532eedf489c9c987e6d1d42cc9bcbc8b51686643e69458087ef6c69f9d7a881d",
-    "signature": "GPpHy5xiDnL5X5CkbA3K2YE2FVnMhl7jjU3rpPlY+VvRmavvUlLtKZjGAnAVoUlVaieTj6YRR7CeKoHhrxxsDg=="
+    "version": "1.5.4",
+    "date": "2026-10-05",
+    "notes": "Nuova interfaccia",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.4/app_local.exe",
+    "sha256": "e9e5e2b5d5780083c8efd76a5f60e559c1301cfa5243a6de97d32e67581cbc43",
+    "signature": "xEJhaKUYuk6qenw3w+ZkvoSzKUeVNswES/63ZabffjQcKjpO3zmuqndKGclphGvQzsGNYKPs+5pqS7n/qqnSAg=="
   },
   "app_local_api": {
     "version": "1.5.2",
