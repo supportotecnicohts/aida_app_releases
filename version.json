@@ -1,11 +1,11 @@
 {
   "app_local": {
-    "version": "1.5.5",
-    "date": "2026-10-05",
-    "notes": "Miglioramenti interni al sistema di invio.",
-    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.5/app_local.exe",
-    "sha256": "12d67062618ef034b8ebe2add83e5b074f7e85af84f3848ae43c66191a01332b",
-    "signature": "JomvsyJKJAg89dMzv4iD/NXqpHpyvQv358XebGhf9hRDZNefSlt9zAFp3N/pGdKguXKz4LSbCyfSviR1bXI7Bg=="
+    "version": "1.5.6",
+    "date": "2026-10-06",
+    "notes": "Aggiunta data e ora di invio nell'oggetto dell'email.",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local-v1.5.6/app_local.exe",
+    "sha256": "7ac5f4d60edd855e3a0c316199f45464daf923430551501adbbc47dd3700c464",
+    "signature": "+LlqJYKQ5PWHGVrBDFvikix3q41D3MDjL7YPvlLvCIZyexXZI73D6WTN+0Z1xRlAgATaFc4BvC3LD8MrKLDRAg=="
   },
   "app_local_api": {
     "version": "1.5.5",
