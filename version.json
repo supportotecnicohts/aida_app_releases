@@ -8,11 +8,11 @@
     "signature": "QBAq6m/vPIG348Lt+adXeLQMVy8upVVc5dw4P5gNj/Ww84Q/QUgvAQyJvJ3rpxXz/CAZL4+In2u0/wY0FT/6DA=="
   },
   "app_local_api": {
-    "version": "1.5.6",
-    "date": "2026-10-06",
-    "notes": "Aggiunta data e ora di invio nell'oggetto dell'email.",
-    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local_api-v1.5.6/app_local_api.exe",
-    "sha256": "9486a236ede22a1cb172eecbaf6f2cb9ed4f399a8256f3b78e803abe35029b8f",
-    "signature": "P0e3OYioVnpHmm4OxhDO/xKR2Q1Q+VFL+W+XzoYxDFKcrfwpAxK2lVr08IvaO1c1iCZrhrlq3l8Od6ROhLVLBA=="
+    "version": "1.5.7",
+    "date": "2026-10-13",
+    "notes": "(ID:3289) - Adesso importando un preventivo da formato ANIA, nel caso sulla pratica esistono già più preventivi, viene importato sovrascrivendo il primo e mantenendo gli eventuali altri presenti",
+    "url": "https://github.com/supportotecnicohts/aida_app_releases/releases/download/app_local_api-v1.5.7/app_local_api.exe",
+    "sha256": "0eeb107b1603adfac95a0b1f086a307e946b680d82a1f2e4c4566111978f1dec",
+    "signature": "k3mmrASB5AaM3S/RKDov/qrW+ru41pvsaKCCmpf8PblCfzvIixzy3sAUThOvwPLsfNE6XLL3AsKYnQRbSN2pDg=="
   }
 }
